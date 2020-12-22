@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/</loc>
+    <lastmod>2020-12-20T15:23:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/project-1/</loc>
+    <lastmod>2020-12-20T15:23:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/project-2/</loc>
+    <lastmod>2020-12-20T15:23:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/</loc>
+    <lastmod>2020-12-20T15:23:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

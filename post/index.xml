@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sebastian Franco Castrillón</title>
+    <link>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/</link>
+    <description>Recent content in Projects on Sebastian Franco Castrillón</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 15:23:00 -0400</lastBuildDate><atom:link href="https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Optimization of the deposit capturing campaign</title>
+      <link>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/project-1/</link>
+      <pubDate>Sun, 20 Dec 2020 15:23:00 -0400</pubDate>
+      
+      <guid>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/project-1/</guid>
+      <description>Request ID Number 1: Optimization of campaigns with machine learning.
+Context   Senior management has expressed concern about the constant increase in the costs of commercial campaigns while revenue remains.
+  As a result, the ROI per euro invested is increasingly lower and management is considering moving part of the marketing budget to other investments with higher ROI.
+  The marketing department has asked the DS team for a solution to optimize the ROI of commercial campaigns by exploiting all the historical data the company has.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Predict Behavior to Retain Customers</title>
+      <link>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/project-2/</link>
+      <pubDate>Sun, 20 Dec 2020 15:23:00 -0400</pubDate>
+      
+      <guid>https://sebasfrancoc.github.io/SebasFrancoC_Portfo/post/project-2/</guid>
+      <description>Request ID Number 2: Predicting customers who may leave my service
+Context This analysis focuses on the behavior of telecommunications customers who are more likely to leave the platform. It aims to find out the most striking customer behavior and will use some of the predictive analytics techniques to determine which customers are most likely to leave the telecommunications platform.
+About the data:  Customers who left within the last month – the column is called Churn Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges Demographic info about customers – gender, age range, and if they have partners and dependents  Conclusions and recommendations  In this case, a customer retention campaign can be proposed with the marketing area and the top executives, so that the customers choose to stay with the telecommunication company.</description>
+    </item>
+    
+  </channel>
+</rss>
